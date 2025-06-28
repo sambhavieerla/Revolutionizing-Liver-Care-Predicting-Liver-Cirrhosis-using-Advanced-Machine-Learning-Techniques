@@ -65,23 +65,6 @@ The trained model can be deployed using Flask:
 ### 📁 Project Structure
 
 ---
-📁 EPBL_AIML_PROJECT_LIVERCARE
-├── app.py
-├── static/
-│   ├── css/
-│   ├── css/  
-│   └── images/
-├── templates/
-│   ├── index.html
-│   └── page.html
-├── training/
-│   └── liver_cirrhosis.ipynb
-├── model/
-│   └── liver_model.pkl
-├── dataset/
-│   ├── HealthCareData.xlsx
-│   ├── cleaned_data.csv
-│   └── model_eval.csv
-├── requirements.txt
-└── README.md
+![image](https://github.com/user-attachments/assets/eebcc2fc-2cc7-42d5-8ce3-37bcd7b96c46)
+
 
