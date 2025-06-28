@@ -121,6 +121,7 @@ Here is the exact text content from the image:
 
 ---
 * Email: [sambhavieerla628178@gmail.com](mailto:sambhavieerla6281785773@gmail.com).
+ ---
 *contact no:6281785773
 
 🏆 🌟 Thank you for exploring the Connect Four Game repository! Have fun playing! 🎮 🎉
