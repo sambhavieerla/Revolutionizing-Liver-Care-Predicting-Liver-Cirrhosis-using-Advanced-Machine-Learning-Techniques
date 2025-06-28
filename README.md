@@ -66,5 +66,70 @@ The trained model can be deployed using Flask:
 
 ---
 ![image](https://github.com/user-attachments/assets/eebcc2fc-2cc7-42d5-8ce3-37bcd7b96c46)
+---
+
+### 🧠 Model Details
+
+**Dataset:** Indian Liver Patient [Dataset](https://www.kaggle.com/datasets/)
+
+**Algorithms Used:**
+
+* Linear Regression
+* Logistic Regression
+* Linear Discriminant Analysis
+* Classification and Regression Trees
+* Naive Bayes
+* K-Nearest Neighbors (KNN)
+* Random Forest
+* Boosting and AdaBoost
+
+**Best Model Accuracy:**
+
+---
+
+![image](https://github.com/user-attachments/assets/7e8595fe-f3d6-4a67-b1cf-57cdb6f11231)
+---
+📸 Screenshots
+---
+🏠 Home Page
+---
+![image](https://github.com/user-attachments/assets/16c93b07-6316-4fe7-b098-60d76927b14c)
+---
+🧩Prediction Page
+---
+![image](https://github.com/user-attachments/assets/a47360f3-3071-4d4e-b3c0-c42026a87651)
+---
+📮Contact Page
+---
+![image](https://github.com/user-attachments/assets/62c694c2-18e1-4f83-bb29-73ed196aad5f)
+---
+🧪 Prediction Form
+---
+![image](https://github.com/user-attachments/assets/ca6205cd-0903-41ca-a631-0fd33eb0a507)
+---
+📊 Prediction Result
+---
+![image](https://github.com/user-attachments/assets/9c91cd19-00cf-4f0a-b52e-b14e07f94492)
+---
+🤝 Contributing
+---
+This project is licensed under the MIT License.
+
+📧 Contact :
+---
+Here is the exact text content from the image:
+
+---
+* Email: [sambhavieerla628178@gmail.com](mailto:sambhavieerla6281785773@gmail.com).
+*contact no:6281785773
+
+🏆 🌟 Thank you for exploring the Connect Four Game repository! Have fun playing! 🎮 🎉
+
+---
+
+
+
+
+
 
 
