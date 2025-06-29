@@ -70,7 +70,7 @@ The trained model can be deployed using Flask:
 
 ### 🧠 Model Details
 
-**Dataset:** Indian Liver Patient [Dataset](https://www.kaggle.com/datasets/)
+**Dataset:** Indian Liver Patient [Dataset](https://www.kaggle.com/datasets/bhavanipriya222/liver-cirrhosis-prediction/)
 
 **Algorithms Used:**
 
